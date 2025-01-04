@@ -93,8 +93,8 @@ set -o errexit
 set -o nounset
 IFS=$(printf '\n\t')
 ```
-- ```set -o errexit```: The script will exit if any command exits with a non-zero status.
-- ```set -o nounset```: The script will exit if it tries to use an uninitialized variable.
+- ```set -o errexit```: El script saldrá si algún comando sale con un estado distinto de cero.
+- ```set -o nounset```: El script se cerrará si intenta utilizar una variable no inicializada.
 - ```IFS=$(printf '\n\t')```: Internal Field Separator is set to newline and tab.
 
 2. Instalar Docker
