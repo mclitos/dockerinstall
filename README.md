@@ -28,7 +28,7 @@ Ejecutar el Archivo:
 ./dockerinstall.sh
 ```
 
-## Instalación sin usar root ( Opcion no Recomendable pero Utilizale)
+## Instalación sin usar root ( Opcion no Recomendable pero Utilizable)
 
 Si no desea usar root/sudo, puede hacer lo siguiente:
 
