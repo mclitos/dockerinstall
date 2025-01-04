@@ -6,7 +6,7 @@ DB Tech's Docker and Docker Compose Install
 Para instalar las versiones más nuevas de sudo (opcional según el script que use), curl, Docker y docker compose, simplemente acceda por ssh a su servidor y luego clone este repositorio con:
 
 ```
-git clone https://github.com/dnburgess/dockerinstall.git
+git clone https://github.com/mclitos/dockerinstall.git
 ```
 Si no tiene instalado git, puede ejecutar:
 ```
