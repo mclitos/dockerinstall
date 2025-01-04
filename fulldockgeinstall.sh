@@ -45,11 +45,11 @@ fi
 # Ask if the user wants to create a new sudo user
 read -p "¿Quieres crear un nuevo usuario sudo? (s/n) " create_user
 if [[ $create_user =~ ^[Ss]$ ]]; then
-    read -p "Enter the desired username: " username
+    read -p "Introduzca el nombre de usuario: " username
     while true; do
-        read -s -p "Enter the password: " password
+        read -s -p "Introduzca el password: " password
         echo
-        read -s -p "Confirm the password: " password_confirm
+        read -s -p "Confirme el password: " password_confirm
         echo
         if [[ $password == $password_confirm ]]; then
             break
