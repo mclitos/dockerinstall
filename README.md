@@ -60,7 +60,7 @@ Ejecutar el Archivo:
 Para instalar las versiones más nuevas de sudo (opcional según el script que uses), curl, Docker y docker compose, simplemente ingresa por ssh a tu servidor y luego clona este repositorio con: 
 
 ```
-git clone https://github.com/dnburgess/dockerinstall.git
+git clone https://github.com/mclitos/dockerinstall.git
 ```
 Si no tienes git instalado, puedes Ejecutar:
 ```
