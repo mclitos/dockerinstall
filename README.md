@@ -34,7 +34,7 @@ Si no desea usar root/sudo, puede hacer lo siguiente:
 
 Clonar el repositorio:
 ```
-git clone https://github.com/dnburgess/dockerinstall.git
+git clone https://github.com/mclitos/dockerinstall.git
 ```
 Si no tienes git instalado, puedes ejecutar:
 ```
